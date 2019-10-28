@@ -23,10 +23,10 @@ def literal_aoh
   # held in the constants
   arr = [
     DON_G.sort,
-    JOELLE_VD,
-    PAT_M,
-    KATE_G,
-    BRUCE_G
+    JOELLE_VD.sort,
+    PAT_M.sort,
+    KATE_G.sort,
+    BRUCE_G.sort
   ]
 end
 
